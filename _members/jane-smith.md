@@ -1,6 +1,6 @@
 ---
 name: Roger Castells Graells
-image: images/photo.jpg
+image: images/20230327_161044(0).jpg
 role: pi
 aliases:
   - J. Smith
