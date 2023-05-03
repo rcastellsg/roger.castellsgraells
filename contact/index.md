@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="rcastellsg@g.ucla.edu"
+  link="rcastellsg@g.ucla.edu"
 %}
 {%
   include button.html
