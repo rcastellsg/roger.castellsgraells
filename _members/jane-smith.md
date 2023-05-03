@@ -1,12 +1,11 @@
 ---
 name: Roger Castells Graells
 image: images/20230327_161044(0).jpg
-role: pi
+role: 
 aliases:
-  - J. Smith
-  - J Smith
+
 links:
-  home-page: https://janesmith.com
+  home-page: 
   orcid: 0000-0001-8713-9213
 ---
 
