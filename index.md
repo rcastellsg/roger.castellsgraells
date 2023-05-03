@@ -1,9 +1,11 @@
 ---
 ---
 
-# rcastellsg's Website
+# Biography
 
-An engaging 1-3 sentence description of your lab.
+Hello, I am Dr. Roger Castells-Graells. 
+
+I am a bioengineer with over 10 years of research experience. I am currently a postdoctoral researcher in the lab of Prof. Todd Yeates at the University of California Los Angeles (UCLA). I received my undergraduate degree in Bioengineering from the Autonomous University of Barcelona (Spain) in 2015, and earned a PhD in Biochemistry from the John Innes Centre (UK) in 2019 under the mentorship of Prof. George Lomonossoff. 
 
 {% include section.html %}
 
